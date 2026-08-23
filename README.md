@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Banner](./banner.jpg)
 <!--
 **rybert79/rybert79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
