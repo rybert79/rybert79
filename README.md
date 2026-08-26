@@ -26,19 +26,7 @@
 
 - 🔨 **memperdalam bahasa C++** — yah untung aku punya guru terhebat
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rybert79&show_icons=true&theme=default" alt="yah nanti ku betulin kalo masih error" />
-</p>
-
----
-
-### 📫 Kontak
-
-Feel free untuk connect atau diskusi soal project di atas!
 
 <!--
 **rybert79/rybert79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
