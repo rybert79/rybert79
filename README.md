@@ -1,3 +1,4 @@
+<img src="./banner-2.jpg" width="1000">
 <h1 align="center">Hai, aku rybert👋</h1>
 
 <p align="center">
